@@ -47,9 +47,10 @@ Jacy Liu &amp; Ponj Elazegui
 
 ---
 ## Screenshot of the program output with the correctness check (C)
-![Image Alt]([image_url](https://github.com/JacyNateLiu/LBYARCH-Programming-2/blob/fcb3b555bb63a7c6bbe17d8ea1fcfb2f0448b2fe/Screenshots/cCorrectnessCheck.png))
+![Image Alt](/Screenshots/cCorrectnessCheck.png)
 
 ## Screenshot of the program output, including the correctness check (x86-64)
+![Image Alt](/Screenshots/x86-64CorrectnessCheck.png)
 
 ## Analysis
 
@@ -58,20 +59,30 @@ In the 3 test cases with n having values of 2<sup>20</sup>, 2<sup>24</sup>, 2<su
 ## Screenshots
 
 ### C Program Outputs (Last 4 out of 30)
-**N = 1,048,576**
-**N = 16,777,216**
-**N = 1,073,741,824**
+**N = 1,048,576**  
+![Image Alt](/Screenshots/C1048576.png)
+
+**N = 16,777,216**  
+![Image Alt](/Screenshots/C16777216.png)
+
+**N = 1,073,741,824**  
+![Image Alt](/Screenshots/C1073741824.png)
 
 ### x86-64 Assembly Outputs (Last 4 out of 30)
-**N = 1,048,576**
-**N = 16,777,216**
-**N = 1,073,741,824**
+**N = 1,048,576**  
+![Image Alt](/Screenshots/x86_641048576.png)
+
+**N = 16,777,216**  
+![Image Alt](/Screenshots/x86-6416777216.png)
+
+**N = 1,073,741,824**  
+![Image Alt](/Screenshots/x86_641073741824.png)
 
 ---
 
 ## Video
 
-[Video Presentation Link](https://github.com/JacyNateLiu/LBYARCH-Programming-2/blob/3e510f241c46fd55ed4f06115309833009f6de5c/Elazegui_Liu_Video.mp4)
+[Video Presentation Link](/Elazegui_Liu_Video.mp4)
 
 
 

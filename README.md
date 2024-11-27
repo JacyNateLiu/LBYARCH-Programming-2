@@ -68,4 +68,12 @@ In the 3 test cases with n having values of 2<sup>20</sup>, 2<sup>24</sup>, 2<su
 
 ---
 
+## Video
+
+[Video Presentation Link](https://github.com/JacyNateLiu/LBYARCH-Programming-2/blob/3e510f241c46fd55ed4f06115309833009f6de5c/Elazegui_Liu_Video.mp4)
+
+
+
+
+
 

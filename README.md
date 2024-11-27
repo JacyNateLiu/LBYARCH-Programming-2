@@ -47,6 +47,7 @@ Jacy Liu &amp; Ponj Elazegui
 
 ---
 ## Screenshot of the program output with the correctness check (C)
+![Image Alt]([image_url](https://github.com/JacyNateLiu/LBYARCH-Programming-2/blob/fcb3b555bb63a7c6bbe17d8ea1fcfb2f0448b2fe/Screenshots/cCorrectnessCheck.png))
 
 ## Screenshot of the program output, including the correctness check (x86-64)
 

@@ -81,11 +81,11 @@ In the 3 test cases with n having values of 2<sup>20</sup>, 2<sup>24</sup>, 2<su
 ---
 
 ## Video
+### Preview
+https://github.com/user-attachments/assets/22da4e4c-5159-4a8e-bf7f-764c5e59c152
 
-[Video Presentation Link](/Elazegui_Liu_Video.mp4)
 
-
-
+[Higher Quality Version Video Presentation Link](/Elazegui_Liu_Video.mp4)
 
 
 
